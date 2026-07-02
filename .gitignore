@@ -1,0 +1,7 @@
+.venv/
+data/
+*.duckdb
+.env
+target/
+dbt_packages/
+AGENTS.md
